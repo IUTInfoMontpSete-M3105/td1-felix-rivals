@@ -1,34 +1,36 @@
+package Classe;
 
 import java.util.*;
 
 /**
  * 
  */
-public class Etudiant extends Personne-Utilisateur {
+public class Rendu extends Document {
 
     /**
      * Default constructor
      */
-    public Etudiant() {
+    public Rendu() {
     }
 
     /**
      * 
      */
-    public string numINE;
+    public float note;
+
 
 
     /**
      * 
      */
-    public void suivre-cours() {
+    public void uploadDocument() {
         // TODO implement here
     }
 
     /**
      * 
      */
-    public void télécharger-cours() {
+    public void assignerEnseignant() {
         // TODO implement here
     }
 

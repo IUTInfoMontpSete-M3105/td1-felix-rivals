@@ -1,15 +1,16 @@
+package Classe;
 
 import java.util.*;
 
 /**
  * 
  */
-public class Personne-Utilisateur {
+public class Utilisateur {
 
     /**
      * Default constructor
      */
-    public Personne-Utilisateur() {
+    public Utilisateur() {
     }
 
     /**
@@ -35,7 +36,7 @@ public class Personne-Utilisateur {
     /**
      * 
      */
-    public void gérer-données() {
+    public void gerer-donnees() {
         // TODO implement here
     }
 

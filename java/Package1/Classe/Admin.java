@@ -1,10 +1,11 @@
+package Classe;
 
 import java.util.*;
 
 /**
  * 
  */
-public class Admin extends Personne-Utilisateur {
+public class Admin extends Utilisateur {
 
     /**
      * Default constructor
@@ -16,7 +17,7 @@ public class Admin extends Personne-Utilisateur {
      * @param Enseignant 
      * @return
      */
-    public Cours créer-cours(void Enseignant) {
+    public Cours creer-cours(void Enseignant) {
         // TODO implement here
         return null;
     }
