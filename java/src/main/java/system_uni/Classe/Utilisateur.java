@@ -26,12 +26,12 @@ public class Utilisateur {
     /**
      * 
      */
-    public string adresse-postale;
+    public string adresse_postale;
 
     /**
      * 
      */
-    public string adresse-mail;
+    public string adresse_mail;
 
     /**
      * 
@@ -43,7 +43,7 @@ public class Utilisateur {
     /**
      * 
      */
-    public void consulter-document() {
+    public void consulter_document() {
         // TODO implement here
     }
 

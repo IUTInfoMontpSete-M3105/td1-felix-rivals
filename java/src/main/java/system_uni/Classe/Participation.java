@@ -16,11 +16,11 @@ public class Participation {
     /**
      * 
      */
-    public float total-point;
+    public float total_point;
 
     /**
      * 
      */
-    public string Certificat-pres;
+    public string Certificat_pres;
 
 }

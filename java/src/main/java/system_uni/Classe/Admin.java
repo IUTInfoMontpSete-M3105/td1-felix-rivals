@@ -25,7 +25,7 @@ public class Admin extends Utilisateur {
     /**
      * @param Cours
      */
-    public void supprimer-cours(void Cours) {
+    public void supprimer_cours(void Cours) {
         // TODO implement here
     }
 

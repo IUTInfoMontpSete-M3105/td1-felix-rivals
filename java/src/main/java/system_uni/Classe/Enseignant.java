@@ -29,7 +29,7 @@ public class Enseignant extends Utilisateur {
      * @param Cours 
      * @return
      */
-    public Devoir creer-devoir(void Cours) {
+    public Devoir creer_devoir(void Cours) {
         // TODO implement here
         return null;
     }
@@ -38,7 +38,7 @@ public class Enseignant extends Utilisateur {
      * @param Rendu 
      * @return
      */
-    public float attribuer-note(void Rendu) {
+    public float attribuer_note(void Rendu) {
         // TODO implement here
         return 0.0f;
     }
@@ -46,7 +46,7 @@ public class Enseignant extends Utilisateur {
     /**
      * @param Rendu
      */
-    public void corriger-devoir(void Rendu) {
+    public void corriger_devoir(void Rendu) {
         // TODO implement here
     }
 
@@ -54,16 +54,9 @@ public class Enseignant extends Utilisateur {
      * @param Rendu 
      * @return
      */
-    public string attribuer-avis(void Rendu) {
+    public string attribuer_avis(void Rendu) {
         // TODO implement here
         return null;
-    }
-
-    /**
-     * 
-     */
-    public void Operation1() {
-        // TODO implement here
     }
 
 }

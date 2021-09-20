@@ -22,14 +22,14 @@ public class Etudiant extends Utilisateur {
     /**
      * 
      */
-    public void suivre-cours() {
+    public void suivre_cours() {
         // TODO implement here
     }
 
     /**
      * 
      */
-    public void telecharger-cours() {
+    public void telecharger_cours() {
         // TODO implement here
     }
 
